@@ -470,6 +470,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2019-11-03 16:37:38 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-11-03 01:34:23 +0700"
@@ -678,6 +684,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-11-03 02:16:21 +0700",
       "minecraft:spider": "2019-11-03 02:12:13 +0700",
+      "minecraft:creeper": "2019-11-03 16:27:50 +0700",
       "minecraft:husk": "2019-11-03 02:24:13 +0700",
       "minecraft:enderman": "2019-11-03 03:20:49 +0700",
       "minecraft:zombie": "2019-11-03 01:37:12 +0700"
@@ -1023,6 +1030,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2019-11-03 02:00:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2019-11-03 16:36:54 +0700"
     },
     "done": true
   },
