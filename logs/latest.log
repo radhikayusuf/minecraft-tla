@@ -196,3 +196,53 @@
 [16:15:18] [Server thread/INFO]: ramadut left the game
 [16:15:57] [Server thread/INFO]: radhikayusuf lost connection: Disconnected
 [16:15:57] [Server thread/INFO]: radhikayusuf left the game
+[16:25:29] [User Authenticator #6/INFO]: UUID of player ramadut is fe4c17a0-f30b-3294-b5e4-ef9e6a7dd2a4
+[16:25:29] [Server thread/INFO]: ramadut[/127.0.0.1:64314] logged in with entity id 1610 at ([world]557.0914163053814, 64.0, 217.14140313683765)
+[16:30:55] [User Authenticator #7/INFO]: UUID of player vincwestley is c41dc68a-52cd-3472-a7fb-266a5aad1d0d
+[16:30:57] [Server thread/INFO]: vincwestley[/0:0:0:0:0:0:0:1:64651] logged in with entity id 2259 at ([world]547.2863004764964, 63.0, 183.65636752247755)
+[16:31:09] [Async Chat Thread - #5/INFO]: <vincwestley> woe[m
+[16:31:12] [Async Chat Thread - #5/INFO]: <ramadut> oe[m
+[16:31:13] [Server thread/INFO]: vincwestley issued server command: /pl
+[16:31:18] [Async Chat Thread - #5/INFO]: <ramadut> geus make github ayena mah[m
+[16:31:22] [Async Chat Thread - #5/INFO]: <vincwestley> ieu server saha[m
+[16:31:30] [Async Chat Thread - #5/INFO]: <ramadut> di urg[m
+[16:31:41] [Async Chat Thread - #5/INFO]: <vincwestley> ngelag noob[m
+[16:31:51] [Async Chat Thread - #5/INFO]: <ramadut> start server di maneh atuh bastard[m
+[16:31:58] [Async Chat Thread - #5/INFO]: <vincwestley> mbung[m
+[16:32:10] [Async Chat Thread - #5/INFO]: <ramadut> tai pisan[m
+[16:34:47] [User Authenticator #8/INFO]: UUID of player radhikayusuf is 4b73c7fb-9f79-31c2-82a8-4adf3c3d4ed1
+[16:34:49] [Server thread/INFO]: radhikayusuf[/0:0:0:0:0:0:0:1:64900] logged in with entity id 2531 at ([world]563.0818682297826, 64.0, 197.60470928710944)
+[16:34:57] [Async Chat Thread - #6/INFO]: <ramadut> discord oe[m
+[16:36:32] [Async Chat Thread - #7/INFO]: <ramadut> yang mau besi ada di kompor[m
+[16:36:39] [Server thread/INFO]: radhikayusuf has made the advancement [Getting an Upgrade]
+[16:36:54] [Server thread/INFO]: ramadut has made the advancement [Isn't It Iron Pick]
+[16:37:08] [Server thread/INFO]: radhikayusuf drowned
+[16:37:11] [Async Chat Thread - #7/INFO]: <ramadut> aowkoawk[m
+[16:37:17] [Async Chat Thread - #7/INFO]: <ramadut> maksa budak teh[m
+[16:37:23] [Async Chat Thread - #7/INFO]: <radhikayusuf> pembunuhan di sumur[m
+[16:37:38] [Server thread/INFO]: ramadut has made the advancement [Suit Up]
+[16:38:08] [Async Chat Thread - #7/INFO]: <vincwestley> a[m
+[16:38:14] [Async Chat Thread - #7/INFO]: <vincwestley> server na ngelag[m
+[16:38:16] [Async Chat Thread - #7/INFO]: <vincwestley> butut[m
+[16:40:22] [Async Chat Thread - #8/INFO]: <vincwestley> zord[m
+[16:42:40] [Async Chat Thread - #9/INFO]: <vincwestley> zord[m
+[16:42:57] [Server thread/INFO]: radhikayusuf lost connection: Disconnected
+[16:42:57] [Server thread/INFO]: radhikayusuf left the game
+[16:42:59] [Async Chat Thread - #9/INFO]: <vincwestley> zord[m
+[16:43:05] [Server thread/INFO]: vincwestley lost connection: Disconnected
+[16:43:05] [Server thread/INFO]: vincwestley left the game
+[16:44:29] [Server thread/INFO]: ramadut lost connection: Disconnected
+[16:44:29] [Server thread/INFO]: ramadut left the game
+[16:46:27] [Server thread/INFO]: Stopping the server
+[16:46:27] [Server thread/INFO]: Stopping server
+[16:46:27] [Server thread/INFO]: Saving players
+[16:46:27] [Server thread/INFO]: Saving worlds
+[16:46:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:46:28] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[16:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:46:28] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[16:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:46:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
