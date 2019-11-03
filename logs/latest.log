@@ -1,248 +1,424 @@
-[15:58:05] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[15:58:05] [Server thread/INFO]: Loading properties
-[15:58:05] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-9de398a-9c887d4 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
-[15:58:06] [Server thread/INFO]: Debug logging is disabled
-[15:58:06] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:58:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:58:06] [Server thread/INFO]: Default game type: SURVIVAL
-[15:58:06] [Server thread/INFO]: Generating keypair
-[15:58:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:58:06] [Server thread/INFO]: Using default channel type
-[15:58:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:58:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:58:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:58:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:58:09] [Server thread/INFO]: Preparing level "world"
-[15:58:09] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[15:58:13] [Server thread/INFO]: Loaded 6 recipes
-[15:58:13] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:58:13] [Server thread/INFO]: View Distance: 10
-[15:58:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[15:58:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:58:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[15:58:13] [Server thread/INFO]: Max TNT Explosions: 100
-[15:58:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:58:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[15:58:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:58:13] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:58:13] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:58:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:58:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:58:13] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:58:13] [Server thread/INFO]: Mob Spawn Range: 6
-[15:58:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:58:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:58:14] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[15:58:14] [Server thread/INFO]: View Distance: 10
-[15:58:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[15:58:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:58:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[15:58:14] [Server thread/INFO]: Max TNT Explosions: 100
-[15:58:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:58:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[15:58:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:58:14] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:58:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:58:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:58:14] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:58:14] [Server thread/INFO]: Mob Spawn Range: 6
-[15:58:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:58:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:58:14] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[15:58:14] [Server thread/INFO]: View Distance: 10
-[15:58:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[15:58:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:58:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[15:58:14] [Server thread/INFO]: Max TNT Explosions: 100
-[15:58:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[15:58:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[15:58:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Potato Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Vine Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[15:58:14] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:58:14] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:58:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:58:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:58:14] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:58:14] [Server thread/INFO]: Mob Spawn Range: 6
-[15:58:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:58:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:58:14] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[15:58:15] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:15] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:15] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:15] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:16] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:16] [Server thread/INFO]: Preparing spawn area: 46%
-[15:58:19] [Server-Worker-6/INFO]: Preparing spawn area: 83%
-[15:58:19] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[15:58:19] [Server-Worker-6/INFO]: Preparing spawn area: 83%
-[15:58:19] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[15:58:19] [Server-Worker-6/INFO]: Preparing spawn area: 83%
-[15:58:19] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[15:58:20] [Server thread/INFO]: Preparing spawn area: 84%
-[15:58:20] [Server-Worker-1/INFO]: Preparing spawn area: 95%
-[15:58:21] [Server-Worker-5/INFO]: Preparing spawn area: 95%
-[15:58:21] [Server thread/INFO]: Preparing spawn area: 95%
-[15:58:22] [Server thread/INFO]: Preparing spawn area: 96%
-[15:58:22] [Server-Worker-5/INFO]: Preparing spawn area: 98%
-[15:58:22] [Server thread/INFO]: Time elapsed: 8677 ms
-[15:58:22] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[15:58:24] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:24] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:24] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:24] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:24] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[15:58:25] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[15:58:25] [Server-Worker-7/INFO]: Preparing spawn area: 84%
-[15:58:26] [Server-Worker-3/INFO]: Preparing spawn area: 90%
-[15:58:26] [Server-Worker-6/INFO]: Preparing spawn area: 97%
-[15:58:27] [Server thread/INFO]: Time elapsed: 4098 ms
-[15:58:27] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[15:58:28] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:28] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:28] [Server thread/INFO]: Preparing spawn area: 0%
-[15:58:28] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[15:58:29] [Server-Worker-4/INFO]: Preparing spawn area: 87%
-[15:58:29] [Server thread/INFO]: Time elapsed: 2324 ms
-[15:58:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:58:29] [Server thread/INFO]: Done (20.410s)! For help, type "help"
-[15:59:12] [User Authenticator #1/INFO]: UUID of player ramadut is fe4c17a0-f30b-3294-b5e4-ef9e6a7dd2a4
-[15:59:14] [Server thread/INFO]: ramadut[/0:0:0:0:0:0:0:1:62492] logged in with entity id 41 at ([world]575.1512427710828, 64.0, 191.69305580745367)
-[15:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5912ms or 118 ticks behind
-[15:59:53] [Server thread/INFO]: ramadut lost connection: Timed out
-[15:59:53] [Server thread/INFO]: ramadut left the game
-[15:59:55] [User Authenticator #2/INFO]: UUID of player ramadut is fe4c17a0-f30b-3294-b5e4-ef9e6a7dd2a4
-[15:59:55] [Server thread/INFO]: ramadut[/127.0.0.1:62554] logged in with entity id 358 at ([world]575.1512427710828, 64.0, 191.69305580745367)
-[16:00:45] [User Authenticator #3/INFO]: UUID of player radhikayusuf is 4b73c7fb-9f79-31c2-82a8-4adf3c3d4ed1
-[16:00:46] [Server thread/INFO]: radhikayusuf[/0:0:0:0:0:0:0:1:62606] logged in with entity id 711 at ([world]553.4040139788601, 63.0, 188.3289304401306)
-[16:01:37] [Async Chat Thread - #0/INFO]: <ramadut> noice[m
-[16:01:51] [Async Chat Thread - #0/INFO]: <ramadut> leg enggak ?[m
-[16:01:59] [Async Chat Thread - #0/INFO]: <radhikayusuf> ada delay aja sedikit[m
-[16:03:03] [Async Chat Thread - #1/INFO]: <radhikayusuf> tidur ramadut[m
-[16:03:19] [Async Chat Thread - #1/INFO]: <radhikayusuf> beres game coba push[m
-[16:03:26] [Async Chat Thread - #1/INFO]: <radhikayusuf> pengen liat perubahannya gimana[m
-[16:03:30] [Async Chat Thread - #1/INFO]: <ramadut> okee[m
-[16:03:36] [Async Chat Thread - #1/INFO]: <ramadut> maen weh dulu skrg mah wkwkw[m
-[16:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8531ms or 170 ticks behind
-[16:03:43] [Server thread/WARN]: ramadut moved too quickly! 10.036686843915845,0.7531999805212024,-0.5192861437666352
-[16:04:11] [Async Chat Thread - #1/INFO]: <radhikayusuf> si wesle lagi ngerjain tugas dlu[m
-[16:04:41] [Async Chat Thread - #1/INFO]: <ramadut> nanti aku mau cobain pake depedency manager jadi kalau mau setup tinggal npm install[m
-[16:04:50] [Async Chat Thread - #1/INFO]: <ramadut> tapi gk tau bisa henteu na aowkawokwak[m
-[16:05:00] [Async Chat Thread - #1/INFO]: <radhikayusuf> coba dlu aja[m
-[16:05:49] [Server thread/INFO]: radhikayusuf lost connection: Disconnected
-[16:05:49] [Server thread/INFO]: radhikayusuf left the game
-[16:08:12] [User Authenticator #4/INFO]: UUID of player radhikayusuf is 4b73c7fb-9f79-31c2-82a8-4adf3c3d4ed1
-[16:08:12] [Server thread/INFO]: radhikayusuf[/0:0:0:0:0:0:0:1:63040] logged in with entity id 1165 at ([world]554.4948882918794, 63.691072629561155, 195.84943513285455)
-[16:08:17] [Server thread/WARN]: radhikayusuf was kicked for floating too long!
-[16:08:17] [Server thread/INFO]: radhikayusuf lost connection: Flying is not enabled on this server
-[16:08:17] [Server thread/INFO]: radhikayusuf left the game
-[16:08:26] [User Authenticator #5/INFO]: UUID of player radhikayusuf is 4b73c7fb-9f79-31c2-82a8-4adf3c3d4ed1
-[16:08:27] [Server thread/INFO]: radhikayusuf[/0:0:0:0:0:0:0:1:63054] logged in with entity id 1203 at ([world]554.4948882918794, 63.61267262803528, 195.84943513285455)
-[16:08:41] [Async Chat Thread - #2/INFO]: <ramadut> ada bucket gk dika[m
-[16:08:53] [Async Chat Thread - #2/INFO]: <ramadut> enggak bisa anjir[m
-[16:08:55] [Async Chat Thread - #2/INFO]: <ramadut> koawkaowk[m
-[16:09:02] [Async Chat Thread - #2/INFO]: <radhikayusuf> mau buat kolam susus[m
-[16:09:03] [Async Chat Thread - #2/INFO]: <ramadut> susu mah buat diminum doang[m
-[16:11:07] [Async Chat Thread - #3/INFO]: <ramadut> ini bucket[m
-[16:11:13] [Async Chat Thread - #3/INFO]: <radhikayusuf> yg kamu[m
-[16:11:20] [Async Chat Thread - #3/INFO]: <ramadut> tak di pake[m
-[16:14:23] [Async Chat Thread - #4/INFO]: <ramadut> tidur[m
-[16:15:18] [Server thread/INFO]: ramadut lost connection: Disconnected
-[16:15:18] [Server thread/INFO]: ramadut left the game
-[16:15:57] [Server thread/INFO]: radhikayusuf lost connection: Disconnected
-[16:15:57] [Server thread/INFO]: radhikayusuf left the game
-[16:25:29] [User Authenticator #6/INFO]: UUID of player ramadut is fe4c17a0-f30b-3294-b5e4-ef9e6a7dd2a4
-[16:25:29] [Server thread/INFO]: ramadut[/127.0.0.1:64314] logged in with entity id 1610 at ([world]557.0914163053814, 64.0, 217.14140313683765)
-[16:30:55] [User Authenticator #7/INFO]: UUID of player vincwestley is c41dc68a-52cd-3472-a7fb-266a5aad1d0d
-[16:30:57] [Server thread/INFO]: vincwestley[/0:0:0:0:0:0:0:1:64651] logged in with entity id 2259 at ([world]547.2863004764964, 63.0, 183.65636752247755)
-[16:31:09] [Async Chat Thread - #5/INFO]: <vincwestley> woe[m
-[16:31:12] [Async Chat Thread - #5/INFO]: <ramadut> oe[m
-[16:31:13] [Server thread/INFO]: vincwestley issued server command: /pl
-[16:31:18] [Async Chat Thread - #5/INFO]: <ramadut> geus make github ayena mah[m
-[16:31:22] [Async Chat Thread - #5/INFO]: <vincwestley> ieu server saha[m
-[16:31:30] [Async Chat Thread - #5/INFO]: <ramadut> di urg[m
-[16:31:41] [Async Chat Thread - #5/INFO]: <vincwestley> ngelag noob[m
-[16:31:51] [Async Chat Thread - #5/INFO]: <ramadut> start server di maneh atuh bastard[m
-[16:31:58] [Async Chat Thread - #5/INFO]: <vincwestley> mbung[m
-[16:32:10] [Async Chat Thread - #5/INFO]: <ramadut> tai pisan[m
-[16:34:47] [User Authenticator #8/INFO]: UUID of player radhikayusuf is 4b73c7fb-9f79-31c2-82a8-4adf3c3d4ed1
-[16:34:49] [Server thread/INFO]: radhikayusuf[/0:0:0:0:0:0:0:1:64900] logged in with entity id 2531 at ([world]563.0818682297826, 64.0, 197.60470928710944)
-[16:34:57] [Async Chat Thread - #6/INFO]: <ramadut> discord oe[m
-[16:36:32] [Async Chat Thread - #7/INFO]: <ramadut> yang mau besi ada di kompor[m
-[16:36:39] [Server thread/INFO]: radhikayusuf has made the advancement [Getting an Upgrade]
-[16:36:54] [Server thread/INFO]: ramadut has made the advancement [Isn't It Iron Pick]
-[16:37:08] [Server thread/INFO]: radhikayusuf drowned
-[16:37:11] [Async Chat Thread - #7/INFO]: <ramadut> aowkoawk[m
-[16:37:17] [Async Chat Thread - #7/INFO]: <ramadut> maksa budak teh[m
-[16:37:23] [Async Chat Thread - #7/INFO]: <radhikayusuf> pembunuhan di sumur[m
-[16:37:38] [Server thread/INFO]: ramadut has made the advancement [Suit Up]
-[16:38:08] [Async Chat Thread - #7/INFO]: <vincwestley> a[m
-[16:38:14] [Async Chat Thread - #7/INFO]: <vincwestley> server na ngelag[m
-[16:38:16] [Async Chat Thread - #7/INFO]: <vincwestley> butut[m
-[16:40:22] [Async Chat Thread - #8/INFO]: <vincwestley> zord[m
-[16:42:40] [Async Chat Thread - #9/INFO]: <vincwestley> zord[m
-[16:42:57] [Server thread/INFO]: radhikayusuf lost connection: Disconnected
-[16:42:57] [Server thread/INFO]: radhikayusuf left the game
-[16:42:59] [Async Chat Thread - #9/INFO]: <vincwestley> zord[m
-[16:43:05] [Server thread/INFO]: vincwestley lost connection: Disconnected
-[16:43:05] [Server thread/INFO]: vincwestley left the game
-[16:44:29] [Server thread/INFO]: ramadut lost connection: Disconnected
-[16:44:29] [Server thread/INFO]: ramadut left the game
-[16:46:27] [Server thread/INFO]: Stopping the server
-[16:46:27] [Server thread/INFO]: Stopping server
-[16:46:27] [Server thread/INFO]: Saving players
-[16:46:27] [Server thread/INFO]: Saving worlds
-[16:46:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[16:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:46:28] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[16:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:46:28] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[16:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:46:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:09:05] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:09:05] [Server thread/INFO]: Loading properties
+[18:09:06] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-9de398a-9c887d4 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[18:09:06] [Server thread/INFO]: Debug logging is disabled
+[18:09:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:09:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:09:06] [Server thread/INFO]: Default game type: SURVIVAL
+[18:09:06] [Server thread/INFO]: Generating keypair
+[18:09:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:09:07] [Server thread/INFO]: Using default channel type
+[18:09:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:09:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:09:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:09:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:09:07] [Server thread/INFO]: Preparing level "world"
+[18:09:07] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[18:09:18] [Server thread/INFO]: Loaded 6 recipes
+[18:09:18] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:09:18] [Server thread/INFO]: View Distance: 10
+[18:09:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:09:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:09:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:09:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:09:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:09:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:09:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:09:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:09:18] [Server thread/INFO]: Mob Spawn Range: 6
+[18:09:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:09:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:09:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[18:09:18] [Server thread/INFO]: Max TNT Explosions: 100
+[18:09:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:09:18] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:09:18] [Server thread/INFO]: View Distance: 10
+[18:09:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:09:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:09:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:09:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:09:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:09:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:09:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:09:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:09:18] [Server thread/INFO]: Mob Spawn Range: 6
+[18:09:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:09:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:09:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[18:09:18] [Server thread/INFO]: Max TNT Explosions: 100
+[18:09:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:09:18] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:09:18] [Server thread/INFO]: View Distance: 10
+[18:09:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:09:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:09:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:09:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:09:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:09:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:09:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:09:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:09:18] [Server thread/INFO]: Mob Spawn Range: 6
+[18:09:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:09:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:09:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:09:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[18:09:18] [Server thread/INFO]: Max TNT Explosions: 100
+[18:09:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:09:18] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[18:09:19] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:19] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:21] [Server thread/INFO]: Preparing spawn area: 14%
+[18:09:21] [Server thread/INFO]: Preparing spawn area: 14%
+[18:09:21] [Server thread/INFO]: Preparing spawn area: 14%
+[18:09:23] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[18:09:23] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[18:09:23] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:09:23] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:09:23] [Server-Worker-3/INFO]: Preparing spawn area: 95%
+[18:09:24] [Server-Worker-3/INFO]: Preparing spawn area: 95%
+[18:09:25] [Server-Worker-3/INFO]: Preparing spawn area: 95%
+[18:09:25] [Server-Worker-3/INFO]: Preparing spawn area: 96%
+[18:09:25] [Server thread/INFO]: Time elapsed: 6891 ms
+[18:09:25] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[18:09:26] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:26] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:26] [Server-Worker-2/INFO]: Preparing spawn area: 90%
+[18:09:27] [Server-Worker-2/INFO]: Preparing spawn area: 90%
+[18:09:27] [Server-Worker-2/INFO]: Preparing spawn area: 93%
+[18:09:28] [Server thread/INFO]: Time elapsed: 2438 ms
+[18:09:28] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[18:09:28] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:28] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[18:09:29] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[18:09:29] [Server thread/INFO]: Time elapsed: 1445 ms
+[18:09:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:09:29] [Server thread/INFO]: Done (22.017s)! For help, type "help"
+[18:10:40] [User Authenticator #1/INFO]: UUID of player ramadut is fe4c17a0-f30b-3294-b5e4-ef9e6a7dd2a4
+[18:10:41] [Server thread/INFO]: ramadut[/0:0:0:0:0:0:0:1:52910] logged in with entity id 115 at ([world]556.1103237698836, 64.0, 212.8406349698766)
+[18:11:04] [Async Chat Thread - #0/INFO]: <ramadut> naon ?[m
+[18:12:35] [User Authenticator #2/INFO]: UUID of player radhikayusuf is 4b73c7fb-9f79-31c2-82a8-4adf3c3d4ed1
+[18:12:35] [Server thread/INFO]: radhikayusuf[/0:0:0:0:0:0:0:1:52913] logged in with entity id 533 at ([world]560.0340960652381, 64.0, 187.73350280770052)
+[18:14:23] [User Authenticator #3/INFO]: UUID of player vincwestley is c41dc68a-52cd-3472-a7fb-266a5aad1d0d
+[18:14:24] [Server thread/INFO]: vincwestley[/0:0:0:0:0:0:0:1:52916] logged in with entity id 679 at ([world]538.3773638729759, 63.0, 192.23116697889)
+[18:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7378ms or 147 ticks behind
+[18:16:06] [Server thread/INFO]: vincwestley has made the advancement [We Need to Go Deeper]
+[18:18:44] [Server thread/INFO]: vincwestley has made the advancement [Not Today, Thank You]
+[18:24:41] [Server thread/WARN]: radhikayusuf moved too quickly! -5.092608213696508,-1.1767592750642422,8.897998907084371
+[18:24:42] [Server thread/WARN]: ramadut moved wrongly!
+[18:25:34] [Server thread/WARN]: vincwestley moved too quickly! -8.75337743833552,0.24785109963254115,-6.407774234651384
+[18:25:43] [Async Chat Thread - #1/INFO]: <vincwestley> a[m
+[18:27:36] [Server thread/INFO]: ramadut has made the advancement [Diamonds!]
+[18:30:33] [Server thread/INFO]: radhikayusuf has made the advancement [A Seedy Place]
+[18:32:03] [Async Chat Thread - #2/INFO]: <vincwestley> a[m
+[18:32:59] [Server thread/INFO]: ramadut has made the advancement [Not Today, Thank You]
+[18:33:11] [Server thread/INFO]: ramadut has made the advancement [Voluntary Exile]
+[18:34:39] [Server thread/WARN]: radhikayusuf moved too quickly! 3.6482759321987714,0.0,9.941245195422596
+[18:34:39] [Server thread/INFO]: ramadut has made the advancement [Ice Bucket Challenge]
+[18:36:53] [Server thread/WARN]: vincwestley moved wrongly!
+[18:37:18] [Server thread/WARN]: ramadut was kicked for floating too long!
+[18:37:18] [Server thread/INFO]: ramadut lost connection: Flying is not enabled on this server
+[18:37:18] [Server thread/INFO]: ramadut left the game
+[18:37:21] [User Authenticator #4/INFO]: UUID of player ramadut is fe4c17a0-f30b-3294-b5e4-ef9e6a7dd2a4
+[18:37:21] [Server thread/INFO]: ramadut[/0:0:0:0:0:0:0:1:52938] logged in with entity id 2863 at ([world]559.299999974668, 68.01357304840705, 216.29999997466803)
+[18:41:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[18:42:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6102ms or 122 ticks behind
+[18:42:16] [Server thread/INFO]: radhikayusuf has made the advancement [Take Aim]
+[18:42:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5032ms or 100 ticks behind
+[18:43:35] [Server thread/INFO]: radhikayusuf lost connection: Disconnected
+[18:43:35] [Server thread/INFO]: radhikayusuf left the game
+[18:43:47] [User Authenticator #5/INFO]: UUID of player radhikayusuf is 4b73c7fb-9f79-31c2-82a8-4adf3c3d4ed1
+[18:43:47] [Server thread/INFO]: radhikayusuf[/127.0.0.1:52941] logged in with entity id 3280 at ([world]568.6666953361746, 67.0, 170.83378791679587)
+[18:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[18:44:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[18:45:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5411ms or 108 ticks behind
+[18:46:58] [Server thread/INFO]: ramadut has made the advancement [Enchanter]
+[18:48:08] [Server thread/INFO]: radhikayusuf issued server command: /skin set kirito
+[18:48:48] [Server thread/INFO]: vincwestley has made the advancement [Enchanter]
+[18:50:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[18:52:34] [Server thread/INFO]: ramadut has made the advancement [Ol' Betsy]
+[18:52:35] [Server thread/INFO]: ramadut has made the advancement [Take Aim]
+[18:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
+[18:53:34] [Server thread/INFO]: vincwestley has made the advancement [Suit Up]
+[18:53:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5654ms or 113 ticks behind
+[18:55:20] [Server thread/INFO]: vincwestley has made the advancement [Voluntary Exile]
+[18:55:22] [Server thread/INFO]: radhikayusuf has made the advancement [Ol' Betsy]
+[19:00:27] [Server thread/WARN]: ramadut moved too quickly! -2.8156020652986626,0.0,-9.610132422704424
+[19:00:46] [Server thread/INFO]: radhikayusuf has made the advancement [Voluntary Exile]
+[19:01:32] [Async Chat Thread - #3/INFO]: <vincwestley> a[m
+[19:02:32] [Server thread/INFO]: ramadut was slain by Vindicator
+[19:03:02] [Server thread/INFO]: vincwestley was slain by Vindicator
+[19:03:59] [Server thread/INFO]: vincwestley was slain by Vindicator
+[19:04:25] [Server thread/INFO]: ramadut has completed the challenge [Hero of the Village]
+[19:04:25] [Server thread/INFO]: radhikayusuf has completed the challenge [Hero of the Village]
+[19:04:25] [Server thread/INFO]: vincwestley has completed the challenge [Hero of the Village]
+[19:04:32] [Server thread/INFO]: radhikayusuf was slain by Vex
+[19:08:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5034ms or 100 ticks behind
+[19:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[19:09:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[19:10:34] [Server thread/INFO]: radhikayusuf has made the advancement [Not Today, Thank You]
+[19:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10249ms or 204 ticks behind
+[19:11:01] [Async Chat Thread - #4/INFO]: <vincwestley> a[m
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -15.45181633380545,0.0,-13.15408895852704
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -15.78195457781555,0.0,-13.32487564785663
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -16.11465145133742,0.0,-13.496875735479193
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -16.449652845970608,0.0,-13.669964471033154
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -16.786728309549037,0.0,-13.844032989699485
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -17.125670435128736,0.0,-14.018983313143622
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -17.46629430735151,0.0,-14.194723850363403
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -17.80843175151296,0.0,-14.371175579962483
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -18.151931410383128,0.0,-14.548267382685935
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -18.496657062458667,0.0,-14.72593525120601
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -18.842486108389807,0.0,-14.904121578929448
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -19.189309963376413,0.0,-15.08277110942015
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -19.53702914648922,0.0,-15.261837522390465
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -19.885554124894266,0.0,-15.441279129582426
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -20.23480431904311,0.0,-15.621058411564945
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -20.584707207344085,0.0,-15.801141600850883
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -20.935197520366412,0.0,-15.981498306702633
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -21.286216515623956,0.0,-16.162101177457203
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -21.637711324880588,0.0,-16.34292559661833
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -21.989634366725053,0.0,-16.523949409340048
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -22.34194281788836,0.0,-16.705152676261605
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -22.694598137429434,0.0,-16.886517451958753
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -23.04756738938867,0.0,-17.068024175046844
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -23.40081918051677,0.0,-17.249658650783317
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -23.75432525689011,0.0,-17.431408103900367
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -24.108060189978097,0.0,-17.61326103665715
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -24.46200109410382,0.0,-17.79520710108727
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -24.816127372158586,0.0,-17.977236984021147
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -25.170420486745076,0.0,-18.159342303606422
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -25.52486375420614,0.0,-18.34151551617606
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -25.87944215925074,0.0,-18.5237498324301
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -26.234142188117296,0.0,-18.706039141998644
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -26.58895167842072,0.0,-18.888377945548882
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -26.90828021123448,0.0,-19.05248286439678
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -27.19567588315348,0.0,-19.20017728744733
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -27.454331981028535,0.0,-19.33310226467154
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -27.687122462949244,0.0,-19.45273474100418
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -27.89663389112772,0.0,-19.560403966851254
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -28.080746737395682,0.0,-19.655021463885987
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -28.242000860549723,0.0,-19.73789240530084
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -28.382682133446238,0.0,-19.81019144693778
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -28.509295275698996,0.0,-19.87526058268736
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -28.623247100707786,0.0,-19.93382280331059
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -28.725803740498872,0.0,-19.9865288004753
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -28.81810471386571,0.0,-20.03396419666683
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -28.90117558769524,0.0,-20.07665605210832
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -28.97149193806372,0.0,-20.112793917327167
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.030329217621354,0.0,-20.143033191502013
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.078835333722903,0.0,-20.167963733877855
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.122490837057825,0.0,-20.190401221421666
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.161780789018422,0.0,-20.2105949596762
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.197141744846217,0.0,-20.228769323623737
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.22896660424816,0.0,-20.245126250743283
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.257608976951147,0.0,-20.259847484760826
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.283387111700947,0.0,-20.273096595025663
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.30658743236117,0.0,-20.285020793948092
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.32746772040223,0.0,-20.295752572694028
+[19:11:08] [Server thread/WARN]: ramadut moved too quickly! 1.532500092648661,2.0,9.692617528609532
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.346259979141358,0.0,-20.305411173309494
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.363173011558533,0.0,-20.314103913633176
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.37839474033075,0.0,-20.32192737971718
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.392094295862833,0.0,-20.328968499006237
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.404423895515084,0.0,-20.33530550619855
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.41552053490815,0.0,-20.3410088125205
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.425507510097344,0.0,-20.346141788074306
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.43449578752951,0.0,-20.350761465950313
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.442585237004163,0.0,-20.35491917592867
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.449865741338485,0.0,-20.358661114810047
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.45641819506579,0.0,-20.362028859714087
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.462315403264146,0.0,-20.365059830047358
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.467622890502064,0.0,-20.3677877032751
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.472399628889647,0.0,-20.370242789114968
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.47669869332459,0.0,-20.37245236631236
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.48056785121354,0.0,-20.37444098573735
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.484050093221345,0.0,-20.376230743172414
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.487184110945346,0.0,-20.377841524821292
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.490004726822228,0.0,-20.37929122826688
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.492543281044174,0.0,-20.38059596133337
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.4948279797834,0.0,-20.381770221062084
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.49688420859423,0.0,-20.382827054789914
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.498734814474957,0.0,-20.383778205119825
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.500400359723486,0.0,-20.384634240394007
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.501899350407456,0.0,-20.38540467212033
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.50324844198729,0.0,-20.38609806065574
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.504462624376973,0.0,-20.38672211032099
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.50555538849874,0.0,-20.387283755004887
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.506538876182276,0.0,-20.387789235207038
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.50742401507401,0.0,-20.38824416737691
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.50822064005547,0.0,-20.38865360631894
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.50893760251979,0.0,-20.389022101357
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.50958286872058,0.0,-20.38935374688242
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.51016360828591,0.0,-20.389652227847478
+[19:11:08] [Server thread/WARN]: Boat (vehicle of vincwestley) moved too quickly! -29.510686273880864,0.0,-20.389920860708912
+[19:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21078ms or 421 ticks behind
+[19:12:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9800ms or 196 ticks behind
+[19:12:41] [Server thread/WARN]: vincwestley was kicked for floating too long!
+[19:12:41] [Server thread/INFO]: vincwestley lost connection: Flying is not enabled on this server
+[19:12:41] [Server thread/INFO]: vincwestley left the game
+[19:12:44] [User Authenticator #6/INFO]: UUID of player vincwestley is c41dc68a-52cd-3472-a7fb-266a5aad1d0d
+[19:12:44] [Server thread/INFO]: vincwestley[/0:0:0:0:0:0:0:1:52952] logged in with entity id 6918 at ([world]-73.27620328695836, 62.0, 651.7563531670158)
+[19:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13155ms or 263 ticks behind
+[19:13:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5176ms or 103 ticks behind
+[19:14:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19048ms or 380 ticks behind
+[19:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26394ms or 527 ticks behind
+[19:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23065ms or 461 ticks behind
+[19:16:18] [Server thread/INFO]: radhikayusuf has made the advancement [Best Friends Forever]
+[19:16:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11533ms or 230 ticks behind
+[19:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14059ms or 281 ticks behind
+[19:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9078ms or 181 ticks behind
+[19:18:35] [Server thread/WARN]: vincwestley moved wrongly!
+[19:18:35] [Server thread/WARN]: ramadut moved wrongly!
+[19:18:48] [Async Chat Thread - #5/INFO]: <ramadut> a[m
+[19:19:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30938ms or 618 ticks behind
+[19:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16217ms or 324 ticks behind
+[19:20:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5544ms or 110 ticks behind
+[19:21:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10821ms or 216 ticks behind
+[19:22:30] [Server thread/WARN]: ramadut moved wrongly!
+[19:23:09] [Server thread/INFO]: Teleported ramadut to vincwestley
+[19:23:17] [Server thread/INFO]: Teleported ramadut to radhikayusuf
+[19:23:42] [Server thread/INFO]: Teleported ramadut to radhikayusuf
+[19:23:49] [Server thread/INFO]: ramadut lost connection: Disconnected
+[19:23:49] [Server thread/INFO]: ramadut left the game
+[19:23:51] [User Authenticator #7/INFO]: UUID of player ramadut is fe4c17a0-f30b-3294-b5e4-ef9e6a7dd2a4
+[19:23:52] [Server thread/INFO]: ramadut[/0:0:0:0:0:0:0:1:52959] logged in with entity id 12299 at ([world]561.5, 68.70107281306976, 214.5)
+[19:24:32] [Async Chat Thread - #6/INFO]: <vincwestley> a[m
+[19:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12170ms or 243 ticks behind
+[19:25:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17653ms or 353 ticks behind
+[19:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14686ms or 293 ticks behind
+[19:27:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22220ms or 444 ticks behind
+[19:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30171ms or 603 ticks behind
+[19:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23961ms or 479 ticks behind
+[19:29:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28371ms or 567 ticks behind
+[19:30:09] [Server thread/INFO]: vincwestley has made the advancement [What a Deal!]
+[19:30:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13376ms or 267 ticks behind
+[19:31:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10960ms or 219 ticks behind
+[19:32:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15486ms or 309 ticks behind
+[19:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14452ms or 289 ticks behind
+[19:32:48] [Server thread/WARN]: vincwestley moved wrongly!
+[19:33:23] [Server thread/INFO]: Teleported radhikayusuf to vincwestley
+[19:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5053ms or 101 ticks behind
+[19:34:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8442ms or 168 ticks behind
+[19:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[19:36:04] [Async Chat Thread - #7/INFO]: <vincwestley> wheat[m
+[19:36:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[19:36:47] [Server thread/INFO]: radhikayusuf has made the advancement [What a Deal!]
+[19:36:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9137ms or 182 ticks behind
+[19:37:15] [Server thread/INFO]: Teleported radhikayusuf to ramadut
+[19:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10191ms or 203 ticks behind
+[19:38:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10420ms or 208 ticks behind
+[19:38:32] [Server thread/INFO]: ramadut issued server command: /tp radhikayusuf
+[19:38:32] [Server thread/INFO]: [ramadut: Teleported ramadut to radhikayusuf]
+[19:38:42] [Server thread/INFO]: Teleported radhikayusuf to vincwestley
+[19:38:57] [Async Chat Thread - #8/INFO]: <vincwestley> a[m
+[19:38:58] [Server thread/WARN]: radhikayusuf moved too quickly! 5.265315871114012,0.0,-12.50916612396486
+[19:39:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17609ms or 352 ticks behind
+[19:39:12] [Async Chat Thread - #8/INFO]: <ramadut> 559 64 200[m
+[19:39:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[19:40:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[19:40:15] [Server thread/INFO]: ramadut issued server command: /tp 559 64 200
+[19:40:15] [Server thread/INFO]: [ramadut: Teleported ramadut to 559.5, 64.0, 200.5]
+[19:40:18] [Server thread/INFO]: ramadut issued server command: /tp radhikayusuf
+[19:40:18] [Server thread/INFO]: [ramadut: Teleported ramadut to radhikayusuf]
+[19:43:04] [Server thread/INFO]: Teleported radhikayusuf to ramadut
+[19:43:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[19:43:29] [Server thread/INFO]: vincwestley issued server command: /tp ramadut
+[19:43:50] [Server thread/INFO]: Teleported vincwestley to radhikayusuf
+[19:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7037ms or 140 ticks behind
+[19:47:56] [Server thread/INFO]: ramadut issued server command: /tp 559 64 200
+[19:47:56] [Server thread/INFO]: [ramadut: Teleported ramadut to 559.5, 64.0, 200.5]
+[19:48:01] [Server thread/INFO]: Teleported radhikayusuf to ramadut
+[19:48:11] [Server thread/INFO]: Teleported vincwestley to radhikayusuf
+[19:48:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5097ms or 101 ticks behind
+[19:48:58] [Server thread/INFO]: ramadut lost connection: Timed out
+[19:48:58] [Server thread/INFO]: ramadut left the game
+[19:49:36] [User Authenticator #8/INFO]: UUID of player ramadut is fe4c17a0-f30b-3294-b5e4-ef9e6a7dd2a4
+[19:49:37] [Server thread/INFO]: ramadut[/0:0:0:0:0:0:0:1:52970] logged in with entity id 19559 at ([world]559.495568217797, 64.0, 200.51909238902775)
+[19:50:27] [Server thread/INFO]: ramadut lost connection: Timed out
+[19:50:27] [Server thread/INFO]: ramadut left the game
+[19:50:31] [User Authenticator #9/INFO]: UUID of player ramadut is fe4c17a0-f30b-3294-b5e4-ef9e6a7dd2a4
+[19:50:31] [Server thread/INFO]: ramadut[/0:0:0:0:0:0:0:1:52971] logged in with entity id 19587 at ([world]557.8111467053911, 64.0, 217.19907781220914)
+[19:51:38] [Async Chat Thread - #9/INFO]: <ramadut> a[m
+[19:51:53] [Async Chat Thread - #9/INFO]: <ramadut> 560 68 213[m
+[19:52:07] [Server thread/INFO]: ramadut lost connection: Disconnected
+[19:52:07] [Server thread/INFO]: ramadut left the game
+[19:52:11] [Async Chat Thread - #9/INFO]: <radhikayusuf> -28.242000860549723,0.0,-19.73789240530084[m
+[19:52:39] [Server thread/INFO]: radhikayusuf issued server command: /tp -28 0. -19
+[19:52:39] [Server thread/INFO]: [radhikayusuf: Teleported radhikayusuf to -27.5, 0.0, -18.5]
+[19:52:43] [Server thread/INFO]: radhikayusuf fell out of the world
+[19:52:44] [Server thread/INFO]: Teleported vincwestley to radhikayusuf
+[19:52:45] [Server thread/INFO]: No entity was found
+[19:52:46] [Server thread/INFO]: vincwestley fell out of the world
+[19:53:09] [Server thread/INFO]: radhikayusuf issued server command: /tp -28 70 -19
+[19:53:09] [Server thread/INFO]: [radhikayusuf: Teleported radhikayusuf to -27.5, 70.0, -18.5]
+[19:53:22] [Server thread/INFO]: radhikayusuf issued server command: /tp radhikayusuf vincwestley
+[19:53:22] [Server thread/INFO]: [radhikayusuf: Teleported radhikayusuf to vincwestley]
+[19:54:29] [Server thread/INFO]: radhikayusuf was slain by vincwestley
+[19:54:39] [Server thread/INFO]: vincwestley was slain by radhikayusuf
+[19:54:52] [Server thread/INFO]: vincwestley lost connection: Disconnected
+[19:54:52] [Server thread/INFO]: vincwestley left the game
+[19:54:54] [Server thread/INFO]: radhikayusuf lost connection: Disconnected
+[19:54:54] [Server thread/INFO]: radhikayusuf left the game
+[19:55:04] [Thread-3/INFO]: Stopping server
+[19:55:04] [Thread-3/INFO]: Saving players
+[19:55:04] [Thread-3/INFO]: Saving worlds
+[19:55:04] [Thread-3/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:55:04] [Thread-3/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:55:04] [Thread-3/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[19:55:06] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:55:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:55:12] [Server thread/INFO]: Stopping the server
+[19:55:12] [Thread-3/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:55:12] [Thread-3/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[19:55:12] [Thread-3/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:55:12] [Thread-3/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:55:12] [Thread-3/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:55:12] [Thread-3/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
